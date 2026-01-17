@@ -46,10 +46,6 @@ Fraud	₹531
 
 Fraud transactions are ~8× larger than normal ones — making transaction amount a critical risk indicator.
 
-# ⏰ Time-Based Fraud Patterns
-
-Fraud is not evenly distributed over time.
-
 # 📆 Day of Week
 
 Saturday is the most fraud-active day
