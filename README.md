@@ -2,6 +2,8 @@
 
 A Story-Driven Data Analytics Project
 
+Data set - - -> https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset
+
 # 📌 Project Background
 
 Credit card fraud is often misunderstood.
@@ -71,7 +73,7 @@ Additionally:
 
 Top 10 risky merchants contribute ~1.38% of total fraud
 
-# #📌 This suggests merchant-level monitoring can be highly effective.
+## 📌 This suggests merchant-level monitoring can be highly effective.
 
 # 🚨 Transaction Velocity Analysis
 
